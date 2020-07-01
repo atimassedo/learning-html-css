@@ -1,0 +1,10 @@
+.grid {
+    display: grid;
+    grid-template-columns:300px 250px 400px;
+    grid-template-rows:70px 70px 80px;
+    grid-gap:100px;
+}
+
+#item {
+    background-color: turquoise;
+}
