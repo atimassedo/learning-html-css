@@ -1,2 +1,2 @@
-
-#Hello world , это мой автомобильный блог на уникальные машины марки Honda Motor Co.
+def func_hello():
+    return "Hello world"
